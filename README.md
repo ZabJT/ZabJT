@@ -11,88 +11,88 @@
 
 ##  Tech Stack
 
-<table align="center">
+<table align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-<td align="center" width="200" style="border: 2px solid #FF10F0;">
+<td align="center" width="200" style="border: 2px solid #FF10F0; border-radius: 10px; padding: 15px;">
 
-** Mobile Development**
+<b>Mobile Development</b>
 
 <br/>
 
 <a href="https://flutter.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://dart.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://developer.android.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 
 </td>
 
-<td align="center" width="200" style="border: 2px solid #FF10F0;">
+<td align="center" width="200" style="border: 2px solid #FF10F0; border-radius: 10px; padding: 15px;">
 
-** Frontend Development**
+<b>Frontend Development</b>
 
 <br/>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://reactjs.org/" target="_blank">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 
 </td>
 
-<td align="center" width="250" style="border: 2px solid #FF10F0;">
+<td align="center" width="250" style="border: 2px solid #FF10F0; border-radius: 10px; padding: 15px;">
 
-** Backend & Databases**
+<b>Backend & Databases</b>
 
 <br/>
 
 <a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 
 <br/>
 
 <a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://laravel.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 
 </td>
 
-<td align="center" width="200" style="border: 2px solid #FF10F0;">
+<td align="center" width="200" style="border: 2px solid #FF10F0; border-radius: 10px; padding: 15px;">
 
-** Tools & Others**
+<b>Tools & Others</b>
 
 <br/>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://trello.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 <a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 0 5px;"/>
 </a>
 
 </td>
