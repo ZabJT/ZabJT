@@ -84,7 +84,7 @@
 
   <!-- GitHub Trophies -->
   <picture>
-    <img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8" alt="trophy" />
+    <img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,Contributed,Experience,Reviews,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8" alt="trophy" />
   </picture>
 
 </div>
