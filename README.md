@@ -47,10 +47,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://githubreadme-a6hp.vercel.app/api?username=tyrelcruz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      srcset="https://github-readme-stats-topaz-tau-50.vercel.app/api?username=zabjt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
     />
     <img
-      src="https://githubreadme-a6hp.vercel.app/api?username=tyrelcruz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats-topaz-tau-50.vercel.app/api?username=zabjt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
       height="124"
       alt="stats graph"
     />
@@ -60,10 +60,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=tyrelcruz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
+      srcset="https://github-readme-stats-topaz-tau-50.vercel.app/api/top-langs/?username=zabjt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
     />
     <img
-      src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=tyrelcruz&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats-topaz-tau-50.vercel.app/api/top-langs/?username=zabjt&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true"
       height="124"
       alt="languages graph"
     />
@@ -73,10 +73,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.vercel.app/?user=tyrelcruz&theme=tokyonight&hide_border=true"
+      srcset="https://streak-stats.vercel.app/?user=zabjt&theme=tokyonight&hide_border=true"
     />
     <img
-      src="https://streak-stats.vercel.app/?user=tyrelcruz&hide_border=true"
+      src="https://streak-stats.vercel.app/?user=zabjt&hide_border=true"
       height="124"
       alt="streak stats"
     />
@@ -84,7 +84,7 @@
 
   <!-- GitHub Trophies -->
   <picture>
-    <img src="https://github-trophies.vercel.app/?username=tyrelcruz&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8" alt="trophy" />
+    <img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=darkhub&no-frame=true&row=1&column=8" alt="trophy" />
   </picture>
 
 </div>
