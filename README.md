@@ -9,12 +9,13 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Mobile%20Development-FF10F0?style=for-the-badge" alt="Mobile Development"/>
+<td align="center" width="200" style="border: 2px solid #FF10F0;">
+
+** Mobile Development**
 
 <br/>
 
@@ -30,8 +31,9 @@
 
 </td>
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Frontend%20Development-FF10F0?style=for-the-badge" alt="Frontend Development"/>
+<td align="center" width="200" style="border: 2px solid #FF10F0;">
+
+** Frontend Development**
 
 <br/>
 
@@ -47,8 +49,9 @@
 
 </td>
 
-<td align="center" width="250">
-<img src="https://img.shields.io/badge/Backend%20%26%20Databases-FF10F0?style=for-the-badge" alt="Backend & Databases"/>
+<td align="center" width="250" style="border: 2px solid #FF10F0;">
+
+** Backend & Databases**
 
 <br/>
 
@@ -76,8 +79,9 @@
 
 </td>
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Tools%20%26%20Others-FF10F0?style=for-the-badge" alt="Tools & Others"/>
+<td align="center" width="200" style="border: 2px solid #FF10F0;">
+
+** Tools & Others**
 
 <br/>
 
@@ -97,7 +101,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -130,14 +134,13 @@
 
 <div align="center">
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF10F0?style=for-the-badge&logo=vercel&logoColor=white)](https://zabdielportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zabdiel-tumang)
 
 ---
 
-*Thanks for visiting my profile. Feel free to explore my repositories!* ⭐
+*Thanks for visiting my profile. Feel free to explore my repositories!* 
 
 </div>
-``_
