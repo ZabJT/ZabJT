@@ -6,11 +6,13 @@
 
 
 <h3><b>BSIT Student</b> at <b>National University - Manila</b> | <b>Software Engineer Intern</b> @ <b>MEC Networks Corp.</b></h3>
-<h2><i>Aspiring Full Stack / Backend Developer</i></h2>
+<h4><i>Aspiring Full Stack Developer</i></h4>
 
 </div>
 
 ---
+
+<div align="center">
 
 <table>
   <tr>
@@ -38,13 +40,15 @@
       <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-      <a href="https://trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/></a>
-      <a href="https://www.apachefriends.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40"/></a>
-      <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"/></a>
+      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin: 0 8px;"/></a>
+      <a href="https://trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40" style="margin: 0 8px;"/></a>
+      <a href="https://www.apachefriends.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40" style="margin: 0 8px;"/></a>
+      <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25" style="margin: 0 8px;"/></a>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
