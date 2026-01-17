@@ -6,94 +6,44 @@
 
 
 <h3><b>BSIT Student</b> at <b>National University - Manila</b> | <b>Software Engineer Intern</b> @ <b>MEC Networks Corp.</b></h3>
-<h3><i>Aspiring Full Stack / Backend Developer</i></h3>
+<h2><i>Aspiring Full Stack / Backend Developer</i></h2>
 
 </div>
 
 ---
 
-##  Tech Stack
-
-<table align="center" style="border-collapse: separate; border-spacing: 10px;">
-<tr>
-<td align="center" width="200" style="border: 2px solid #FF10F0; border-radius: 10px; padding: 15px;">
-
-<b>Mobile Development</b>
-
-<br/>
-
-<a href="https://flutter.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30" style="margin: 0 3px;"/>
-</a>
-<a href="https://dart.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30" height="30" style="margin: 0 3px;"/>
-</a>
-<a href="https://developer.android.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30" style="margin: 0 3px;"/>
-</a>
-
-</td>
-
-<td align="center" width="200" style="border: 2px solid #FF10F0; border-radius: 10px; padding: 15px;">
-
-<b>Frontend Development</b>
-
-<br/>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="30" height="30" style="margin: 0 3px;"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="30" height="30" style="margin: 0 3px;"/>
-</a>
-
-</td>
-
-<td align="center" style="border: 2px solid #FF10F0; border-radius: 10px; padding: 15px; white-space: nowrap;">
-
-<b>Backend & Databases</b>
-
-<br/>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="28" height="28" style="margin: 0 2px;"/>
-</a>
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="28" height="28" style="margin: 0 2px;"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="28" height="28" style="margin: 0 2px;"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="28" height="28" style="margin: 0 2px;"/>
-</a>
-<a href="https://laravel.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="28" height="28" style="margin: 0 2px;"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="28" height="28" style="margin: 0 2px;"/>
-</a>
-
-</td>
-
-<td align="center" width="200" style="border: 2px solid #FF10F0; border-radius: 10px; padding: 15px;">
-
-<b>Tools & Others</b>
-
-<br/>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="margin: 0 3px;"/>
-</a>
-<a href="https://trello.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="30" height="30" style="margin: 0 3px;"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30" style="margin: 0 3px;"/>
-</a>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <th>Mobile App Development</th>
+    <th>Web Development.</th>
+    <th>Backend & Databases</th>
+    <th>Other Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
+      <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
+      <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/></a>
+      <a href="https://reactjs.org/"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+      <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
+      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+      <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+      <a href="https://laravel.com/"><img src="https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg" width="40"/></a>
+      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+      <a href="https://trello.com/"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/></a>
+      <a href="https://www.apachefriends.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40"/></a>
+      <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="25"/></a>
+    </td>
+  </tr>
 </table>
 
 ---
