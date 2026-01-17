@@ -65,7 +65,7 @@
 <!-- Streak Stats -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=zabjt&background=0d1117&border=F33A6A&stroke=F33A6A&ring=F33A6A&fire=F33A6A&currStreakLabel=00F3FF&sideNums=00F3FF&sideLabels=00F3FF&currStreakNum=F33A6A&dates=ffffff" />
-<img src="https://streak-stats.vercel.app/?user=zabjt&background=ffffff&border=F33A6A&stroke=F33A6A&ring=F33A6A&fire=F33A6A&currStreakLabel=F33A6A&sideNums=F33A6A&sideLabels=F33A6A&currStreakNum=F33A6A&dates=000000" height="120" width="280" alt="GitHub Streak" style="display: inline-block;" />
+<img src="https://streak-stats.vercel.app/?user=zabjt&background=ffffff&border=F33A6A&stroke=F33A6A&ring=F33A6A&fire=F33A6A&currStreakLabel=F33A6A&sideNums=F33A6A&sideLabels=F33A6A&currStreakNum=F33A6A&dates=000000" height="120" width="280" alt="GitHub Streak" style="display: inline-block; border-radius: 10px;" />
 </picture>
 <!-- Top Languages -->
 <picture style="display: inline-block;">
