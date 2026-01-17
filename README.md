@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="cat.gif" alt="Cat" width="250">
+<img src="cat.gif" alt="Cat" width="200">
 
-Hi there! Go checkout ZabJT's profile, slowlyyy.
+<h4><b>Hi there! Go checkout Zab's profile, SLOWLYYY.</b></h4>
 
-<b>BSIT Student</b> at <b>National University - Manila</b> | <b>Software Engineer Intern</b> @ <b>MEC Networks Corp.</b>  
-<i>Aspiring Full Stack / Backend Developer</i>
+
+<h3><b>BSIT Student</b> at <b>National University - Manila</b> | <b>Software Engineer Intern</b> @ <b>MEC Networks Corp.</b></h3>
+<h3><i>Aspiring Full Stack / Backend Developer</i></h3>
 
 </div>
 
@@ -136,6 +137,12 @@ Hi there! Go checkout ZabJT's profile, slowlyyy.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zabdiel-tumang)
 
 ---
+<br/>
+
+![My GitHub Game](game.gif)
+
+<br/>
+
 
 *Thanks for visiting my profile. Feel free to explore my repositories!* 
 
