@@ -60,18 +60,19 @@
 <!-- GitHub Stats -->
 <picture style="display: inline-block;">
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-topaz-tau-50.vercel.app/api?username=zabjt&show_icons=true&bg_color=0d1117&title_color=F33A6A&icon_color=00F3FF&text_color=ffffff&border_color=F33A6A&hide_border=false&count_private=true&include_all_commits=true&border_radius=10&hide=stars,issues" />
-<img src="https://github-readme-stats-topaz-tau-50.vercel.app/api?username=zabjt&show_icons=true&bg_color=ffffff&title_color=F33A6A&icon_color=00F3FF&text_color=000000&border_color=F33A6A&hide_border=false&count_private=true&include_all_commits=true&border_radius=10&hide=stars,issues" height="120" width="250" alt="GitHub Stats" style="display: inline-block;" />
+<img src="https://github-readme-stats-topaz-tau-50.vercel.app/api?username=zabjt&show_icons=true&bg_color=ffffff&title_color=F33A6A&icon_color=00F3FF&text_color=000000&border_color=F33A6A&hide_border=false&count_private=true&include_all_commits=true&border_radius=10&hide=stars,issues" height="120" width="280" alt="GitHub Stats" style="display: inline-block;" />
+</picture>
+<!-- Streak Stats -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=zabjt&background=0d1117&border=F33A6A&stroke=F33A6A&ring=F33A6A&fire=F33A6A&currStreakLabel=00F3FF&sideNums=00F3FF&sideLabels=00F3FF&currStreakNum=F33A6A&dates=ffffff" />
+<img src="https://streak-stats.vercel.app/?user=zabjt&background=ffffff&border=F33A6A&stroke=F33A6A&ring=F33A6A&fire=F33A6A&currStreakLabel=F33A6A&sideNums=F33A6A&sideLabels=F33A6A&currStreakNum=F33A6A&dates=000000" height="120" width="280" alt="GitHub Streak" style="display: inline-block;" />
 </picture>
 <!-- Top Languages -->
 <picture style="display: inline-block;">
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-topaz-tau-50.vercel.app/api/top-langs/?username=zabjt&bg_color=0d1117&title_color=F33A6A&text_color=ffffff&border_color=F33A6A&hide_border=false&layout=compact&count_private=true&include_all_commits=true&border_radius=10" />
 <img src="https://github-readme-stats-topaz-tau-50.vercel.app/api/top-langs/?username=zabjt&bg_color=ffffff&title_color=F33A6A&text_color=000000&border_color=F33A6A&hide_border=false&layout=compact&count_private=true&include_all_commits=true&border_radius=10" height="120" width="200" alt="Top Languages" style="display: inline-block;" />
 </picture>
-<!-- Streak Stats -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=zabjt&background=0d1117&border=F33A6A&stroke=F33A6A&ring=F33A6A&fire=F33A6A&currStreakLabel=00F3FF&sideNums=00F3FF&sideLabels=00F3FF&currStreakNum=F33A6A&dates=ffffff" />
-<img src="https://streak-stats.vercel.app/?user=zabjt&background=ffffff&border=F33A6A&stroke=F33A6A&ring=F33A6A&fire=F33A6A&currStreakLabel=F33A6A&sideNums=F33A6A&sideLabels=F33A6A&currStreakNum=F33A6A&dates=000000" height="120" width="250" alt="GitHub Streak" style="display: inline-block;" />
-</picture>
+
 
 <br/>
 <br/>
