@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE files
+.vscode/
+.mypy_cache/
+.claude
+
+# Environment variables (secrets)
+.env
+.env.*
+
+# Test output
+my-contributions.json
+.vercel
+
+# Downloaded source code (not needed in profile repo)
+gh-space-shooter-main/
