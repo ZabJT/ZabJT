@@ -77,6 +77,10 @@
 <br/>
 <br/>
 
+
+
+</div>
+
 <div align="center">
 
 <!-- GitHub Trophies -->
@@ -85,9 +89,6 @@
 </picture>
 
 </div>
-
-</div>
-
 ---
 <br/>
 
