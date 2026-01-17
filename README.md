@@ -1,9 +1,11 @@
 <div align="center">
 
-# <b>ZabJT</b>
+<img src="cat.gif" alt="Cat" width="250">
+
+Hi there! Go checkout ZabJT's profile, slowlyyy.
 
 <b>BSIT Student</b> at <b>National University - Manila</b> | <b>Software Engineer Intern</b> @ <b>MEC Networks Corp.</b>  
-<i>Aspiring Full Stack / Web Developer</i>
+<i>Aspiring Full Stack / Backend Developer</i>
 
 </div>
 
