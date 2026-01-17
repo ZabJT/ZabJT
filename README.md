@@ -77,7 +77,7 @@
 
 <!-- GitHub Trophies -->
 <picture>
-<img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&count_private=true&theme=radical&no-frame=false&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,Organizations,Contributed,Experience,Reviews,Followers&count_private=true&theme=radical&no-frame=false&row=1&column=7" alt="GitHub Trophies" />
 </picture>
 
 </div>
@@ -88,8 +88,15 @@
 
 ###  Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF10F0?style=for-the-badge&logo=vercel&logoColor=white)](https://zabdielportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zabdiel-tumang)
+<a href="https://zabdielportfolio.vercel.app" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Portfolio" width="40" height="40" style="margin: 0 10px;" />
+</a>
+<a href="https://www.linkedin.com/in/zabdiel-jairus-tumang-91b975319/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
+</a>
+<a href="https://www.instagram.com/zab.jt/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40" style="margin: 0 10px;" />
+</a>
 
 ---
 <br/>
