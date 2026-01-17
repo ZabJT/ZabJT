@@ -74,29 +74,18 @@
 </picture>
 
 <br/>
+<br/>
+
+<div align="center">
 
 <!-- GitHub Trophies -->
 <picture>
-<img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,Organizations,Contributed,Experience,Reviews,Followers&count_private=true&theme=radical&no-frame=false&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,Organizations,Contributed,Experience,Reviews,Followers&count_private=true&theme=radical&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </picture>
 
 </div>
 
----
-
-<div align="center">
-
-###  Connect With Me
-
-<a href="https://zabdielportfolio.vercel.app" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Portfolio" width="40" height="40" style="margin: 0 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/zabdiel-jairus-tumang-91b975319/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
-</a>
-<a href="https://www.instagram.com/zab.jt/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40" style="margin: 0 10px;" />
-</a>
+</div>
 
 ---
 <br/>
@@ -105,6 +94,21 @@
 
 <br/>
 
+<div align="center">
+
+###  Connect With Me
+
+<a href="https://zabdielportfolio.vercel.app" target="_blank" style="text-decoration: none;">
+  <img src="zabiconcirc.png" alt="Portfolio" width="40" height="40" style="margin: 0 15px;" />
+</a>
+<a href="https://www.linkedin.com/in/zabdiel-jairus-tumang-91b975319/" target="_blank" style="text-decoration: none;">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 15px;" />
+</a>
+<a href="https://www.instagram.com/zab.jt/" target="_blank" style="text-decoration: none;">
+  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40" style="margin: 0 15px;" />
+</a>
+
+---
 
 *Thanks for visiting my profile. Feel free to explore my repositories!* 
 
