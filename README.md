@@ -77,18 +77,17 @@
 <br/>
 <br/>
 
-
-
-</div>
-
 <div align="center">
 
 <!-- GitHub Trophies -->
-<picture>
-<img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,Organizations,Contributed,Experience,Reviews,Followers&count_private=true&theme=radical&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<picture style="display: block; text-align: center;">
+<img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,Organizations,Contributed,Experience,Reviews,Followers&count_private=true&theme=radical&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="display: block; margin: 0 auto;" />
 </picture>
 
 </div>
+
+</div>
+
 ---
 <br/>
 
