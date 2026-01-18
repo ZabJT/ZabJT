@@ -60,7 +60,7 @@
 <!-- GitHub Stats -->
 <picture style="display: inline-block;">
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-topaz-tau-50.vercel.app/api?username=zabjt&show_icons=true&bg_color=0d1117&title_color=F33A6A&icon_color=00F3FF&text_color=ffffff&border_color=F33A6A&hide_border=false&count_private=true&include_all_commits=true&border_radius=10&hide=stars,issues" />
-<img src="https://github-readme-stats-topaz-tau-50.vercel.app/api?username=zabjt&show_icons=true&bg_color=ffffff&title_color=F33A6A&icon_color=00F3FF&text_color=000000&border_color=F33A6A&hide_border=false&count_private=true&include_all_commits=true&border_radius=10&hide=stars,issues" height="150" width="290" alt="GitHub Stats" style="display: inline-block;" />
+<img src="https://github-readme-stats-topaz-tau-50.vercel.app/api?username=zabjt&show_icons=true&bg_color=ffffff&title_color=F33A6A&icon_color=00F3FF&text_color=000000&border_color=F33A6A&hide_border=false&count_private=true&include_all_commits=true&border_radius=10&hide=stars,issues" height="120" width="290" alt="GitHub Stats" style="display: inline-block;" />
 </picture>
 <!-- Streak Stats -->
 <picture>
