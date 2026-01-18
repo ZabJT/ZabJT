@@ -80,7 +80,9 @@
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,Organizations,Contributed,Experience,Reviews,Followers&count_private=true&theme=radical&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<div style="display: inline-block; overflow: hidden;">
+<img src="https://github-trophies.vercel.app/?username=zabjt&title=MultiLanguage,Commits,Repositories,Organizations,Contributed,Experience,Reviews,Followers&count_private=true&theme=radical&no-frame=false&row=1&column=5&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 </div>
 
