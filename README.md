@@ -4,13 +4,12 @@
 
 <h4><b>Hi there! Go checkout Zab's profile, SLOWLYYY.</b></h4>
 
-
 <h3 style="margin: 0.1em 0;"><b>BSIT Student</b> at <b>National University - Manila</b></h3>
 <h3 style="margin: 0.1em 0;"><b>Software Engineer Intern</b> @ <b>MEC Networks Corp.</b></h3>
 <h4 style="margin: 0.1em 0;"><i>Aspiring Full Stack Developer</i></h4>
 
 </div>
-
+<!-- start.. -->
 ---
 
 <div align="center">
@@ -53,7 +52,7 @@
 
 ---
 
-##  GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -73,7 +72,6 @@
 <img src="https://github-readme-stats-topaz-tau-50.vercel.app/api/top-langs/?username=zabjt&bg_color=ffffff&title_color=F33A6A&text_color=000000&border_color=F33A6A&hide_border=false&layout=compact&count_private=true&include_all_commits=true&border_radius=10" height="120" width="200" alt="Top Languages" style="display: inline-block;" />
 </picture>
 
-
 <br/>
 <br/>
 
@@ -89,6 +87,7 @@
 </div>
 
 ---
+
 <br/>
 
 ![My GitHub Game](game.gif)
@@ -97,7 +96,7 @@
 
 <div align="center">
 
-###  Connect With Me
+### Connect With Me
 
 <a href="https://zabdielportfolio.vercel.app" target="_blank" style="text-decoration: none;">
   <img src="zabiconcirc.png" alt="Portfolio" width="40" height="40" style="margin: 0 15px;" />
@@ -111,6 +110,6 @@
 
 ---
 
-*Thanks for visiting my profile. Feel free to explore my repositories!* 
+_Thanks for visiting my profile. Feel free to explore my repositories!_
 
 </div>
