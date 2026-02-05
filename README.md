@@ -2,7 +2,7 @@
 
 <img src="cat.gif" alt="Cat" width="200">
 
-<h4><b>Hi there! Go checkout Zab's profile, SLOWLYYY.</b></h4>
+<h4><b>Hi there! Go check out Zab's profile, SLOWLYYY.</b></h4>
 
 <h3 style="margin: 0.1em 0;"><b>BSIT Student</b> at <b>National University - Manila</b></h3>
 <h3 style="margin: 0.1em 0;"><b>Software Engineer Intern</b> @ <b>MEC Networks Corp.</b></h3>
