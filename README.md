@@ -9,7 +9,7 @@
 <h4 style="margin: 0.1em 0;"><i>Aspiring Full Stack Developer</i></h4>
 
 </div>
-<!-- start.. -->
+<!-- start... -->
 ---
 
 <div align="center">
@@ -96,6 +96,7 @@
 
 <div align="center">
 
+<!--Connect with me-->
 ### Connect With Me
 
 <a href="https://zabdielportfolio.vercel.app" target="_blank" style="text-decoration: none;">
