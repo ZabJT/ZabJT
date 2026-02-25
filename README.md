@@ -111,6 +111,6 @@
 
 ---
 
-_Thanks for visiting my profile. Feel free to explore my repositories! -check for comments_
+_Thanks for visiting my profile. Feel free to explore my repositories!
 
 </div>
