@@ -9,7 +9,7 @@
 <h4 style="margin: 0.1em 0;"><i>Aspiring Full Stack Developer</i></h4>
 
 </div>
-<!-- start... -->
+<!-- start. -->
 ---
 
 <div align="center">
@@ -111,6 +111,6 @@
 
 ---
 
-_Thanks for visiting my profile. Feel free to explore my repositories!_
+_Thanks for visiting my profile. Feel free to explore my repositories! just for the push_
 
 </div>
