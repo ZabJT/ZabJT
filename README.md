@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<!--Connect with me-->
+<!--Connect with me sir thanks-->
 ### Connect With Me
 
 <a href="https://zabdielportfolio.vercel.app" target="_blank" style="text-decoration: none;">
@@ -111,6 +111,6 @@
 
 ---
 
-_Thanks for visiting my profile. Feel free to explore my repositories! just for the push day 2. Thanks for checking_
+_Thanks for visiting my profile. Feel free to explore my repositories! just for the push day 3... Thanks for checking_
 
 </div>
