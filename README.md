@@ -110,6 +110,6 @@
 
 ---
 
-_Thanks for visiting my profile. Feel free to explore my repositories!
+Thanks for visiting my profile. Feel free to explore my repositories!
 
 </div>
