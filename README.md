@@ -95,21 +95,34 @@
 
 <div align="center">
 
-<!--Connect with me sir thanks-->
 ### Connect With Me
 
-<a href="https://zabdielportfolio.vercel.app" target="_blank" style="text-decoration: none;">
-  <img src="zabiconcirc.png" alt="Portfolio" width="40" height="40" style="margin: 0 15px;" />
-</a>
-<a href="https://www.linkedin.com/in/zabdiel-jairus-tumang-91b975319/" target="_blank" style="text-decoration: none;">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 15px;" />
-</a>
-<a href="https://www.instagram.com/zab.jt/" target="_blank" style="text-decoration: none;">
-  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40" style="margin: 0 15px;" />
-</a>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0 15px;">
+      <a href="https://zabdielportfolio.vercel.app" target="_blank">
+        <img src="zabiconcirc.png" alt="Portfolio" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 0 15px;">
+      <a href="https://www.linkedin.com/in/zabdiel-jairus-tumang-91b975319/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 0 15px;">
+      <a href="https://www.instagram.com/zab.jt/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
 
 ---
 
-_Thanks for visiting my profile. Feel free to explore my repositories!
+Thanks for visiting my profile. Feel free to explore my repositories!
 
 </div>
