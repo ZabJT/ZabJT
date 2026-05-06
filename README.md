@@ -4,7 +4,7 @@
 
 <h4><b>Hi there! Go check out Zab's profile, SLOWLYYY.</b></h4>
 
-<h3 style="margin: 0.1em 0;"><b>BSIT Student</b> at <b>National University - Manila</b></h3>
+<h3 style="margin: 0.1em 0;"><b>BSIT Student</b> at <b>National University - Manila <i> (2022-2026)</i></b></h3>
 <h3 style="margin: 0.1em 0;"><b>Full Stack Software Engineer</b> @ <b>MEC Networks Corp.</b></h3>
 <h4 style="margin: 0.1em 0;"><i>Full Stack Software Engineer</i></h4>
 
