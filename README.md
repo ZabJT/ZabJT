@@ -10,7 +10,6 @@
 
 </div>
 <!-- start.... -->
----
 
 <div align="center">
 
@@ -111,6 +110,6 @@
 
 ---
 
-_Thanks for visiting my profile. Feel free to explore my repositories!12345_
+_Thanks for visiting my profile. Feel free to explore my repositories!
 
 </div>
