@@ -105,7 +105,7 @@
       </a>
     </td>
     <td align="center" style="border: none; padding: 0 15px;">
-      <a href="https://www.linkedin.com/in/zabdiel-jairus-tumang-91b975319/" target="_blank">
+      <a href="https://www.linkedin.com/in/zabjt" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
       </a>
     </td>
