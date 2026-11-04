@@ -69,12 +69,6 @@
     <img src="https://streak-stats.vercel.app/?user=zabjt&border_radius=18&background=F5F7F6&border=E3E9E6&stroke=E3E9E6&ring=2F7D6D&fire=F2B880&currStreakNum=15211E&sideNums=15211E&currStreakLabel=2F7D6D&sideLabels=5B6B66&dates=8A9893" width="49%" alt="Contribution streak" />
   </picture>
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-topaz-tau-50.vercel.app/api/top-langs/?username=zabjt&layout=compact&count_private=true&include_all_commits=true&card_width=995&langs_count=6&border_radius=18&bg_color=0E1513&title_color=E8EEEB&text_color=93A29D&border_color=25312D" />
-    <img src="https://github-readme-stats-topaz-tau-50.vercel.app/api/top-langs/?username=zabjt&layout=compact&count_private=true&include_all_commits=true&card_width=995&langs_count=6&border_radius=18&bg_color=F5F7F6&title_color=15211E&text_color=5B6B66&border_color=E3E9E6" width="98.5%" alt="Most used languages" />
-  </picture>
-</p>
 
 <a href="mailto:zabdieljairus@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg" /><img src="./assets/contact-light.svg" width="100%" alt="Let's build something. Government, enterprise or business, tell me what you need and I'll get back to you: zabdieljairus@gmail.com" /></picture></a>
 
