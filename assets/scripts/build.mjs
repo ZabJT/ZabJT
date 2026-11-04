@@ -362,12 +362,14 @@ function hero(t) {
 function button(link, t) {
   const primary = link.id === "portfolio";
   const label = link.label.toUpperCase();
-  const lead = primary ? 34 : 18;
+  // The logo is 16 tall, so about 30 wide; the label starts after it with a gap.
+  const logoW = (16 * LOGO_VIEWBOX[2]) / LOGO_VIEWBOX[3];
+  const lead = primary ? Math.ceil(16 + logoW + 9) : 18;
   const w = Math.ceil(lead + measure(label, { f: "mono", s: 11, w: 500, ls: 1.6 }) + 34);
   const H = 40;
   const fg = primary ? t.onInk : t.ink;
   let body = rect(0.5, 0.5, w - 1, H - 1, { fill: primary ? t.ink : t.paper, stroke: primary ? t.ink : t.line, rx: 20 });
-  if (primary) body += logo(13, 12, 16, fg);
+  if (primary) body += logo(16, 12, 16, fg);
   body += text(lead, 24.5, label, { f: "mono", s: 11, w: 500, ls: 1.6, fill: fg }) + outArrow(w - 26, 15.5, 8, fg, 1.3);
   const fonts = [...used].map((key) => `@font-face{font-family:ZT${key};font-weight:100 900;src:url(data:font/woff2;base64,${FONTS[key].base64}) format('woff2')}`).join("");
   used = new Set();
