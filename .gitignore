@@ -24,3 +24,5 @@ my-contributions.json
 
 # Downloaded source code (not needed in profile repo)
 gh-space-shooter-main/
+# Node
+node_modules/

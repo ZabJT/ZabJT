@@ -1,0 +1,12 @@
+{
+  "name": "zabjt-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node assets/scripts/build.mjs",
+    "record": "node assets/scripts/record.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
